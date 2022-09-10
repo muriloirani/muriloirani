@@ -17,3 +17,7 @@
 </div><br/>
 
 Apaixonado por tecnologia, inovação e aprendizado! 
+
+ ![Snake animation](https://github.com/muriloirani/muriloirani/blob/output/github-contribution-grid-snake.svg)
+
+
